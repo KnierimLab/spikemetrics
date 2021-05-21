@@ -15,7 +15,7 @@ setup(
     description="Python toolkit for computing spike sorting metrics",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SpikeInterface/spikemetrics",
+    url="https://github.com/KnierimLab/spikemetrics",
     packages=find_packages(),
     package_data={},
     install_requires=[
